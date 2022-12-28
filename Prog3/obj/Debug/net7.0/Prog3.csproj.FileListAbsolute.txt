@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\bin\Debug\net7.0\Prog3.exe
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\bin\Debug\net7.0\Prog3.deps.json
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\bin\Debug\net7.0\Prog3.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\bin\Debug\net7.0\Prog3.dll
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\bin\Debug\net7.0\Prog3.pdb
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.dll
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\refint\Prog3.dll
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.pdb
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\Prog3.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ C#3\Prog3\obj\Debug\net7.0\ref\Prog3.dll
